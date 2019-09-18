@@ -20,7 +20,7 @@ For this project I made use of the Unity Engine because this was one of the requ
 | | Monday | Tuesday | Wednesday | Thursday | Friday |
 | --- | --- | --- | --- | --- | --- |
 |week 1 | --- | --- | --- | --- | research |
-|week 2 | Implementing the research done | Finalizing | Uploading | --- | --- |
+|week 2 | Implementing the research done | Finalizing | Uploading and portfolio entry | --- | --- |
 
 ## Sources
 
