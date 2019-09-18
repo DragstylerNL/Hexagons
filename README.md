@@ -1,4 +1,4 @@
-# FP_Hexagon
+# F-P_Hexagon
 
 So the main reason for doing this Feature Project is to do a little research on how to get the hexagonal shape into unity by making custom meshes in unity using only code. Later I can then use this knowledge in other games/ projects. Searching the web for useful information on how to make custom meshes and how to render those into unity.
 
